@@ -1,27 +1,46 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-  <title>Domain-Driven LLM Development: Insights into RAG and Fine- Tuning Practices</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2487.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
 </head>
 <body>
-
-Abstract
-To improve Large Language Model (LLM) performance on domain specific applications, ML developers often leverage Retrieval Augmented Generation (RAG) and LLM Fine-Tuning. RAG extends the capabilities of LLMs to specific domains or an organization's internal knowledge base, without the need to retrain the model. On the other hand, Fine-Tuning approach updates LLM weights with domain-specific data to improve performance on specific tasks. The fine-tuned model is particularly effective to systematically learn new comprehensive knowledge in a specific domain that is not covered by the LLM pre-training. This tutorial walks through the RAG and Fine-Tuning techniques, discusses the insights of their advantages and limitations, and provides best practices of adopting the methodologies for the LLM tasks anduse cases. The hands-on labs demonstrate the advanced techniques to optimize the RAG and fine-tuned LLM architecture that handles domain specific LLM tasks. The labs in the tutorial are designed by using a set of open-source python libraries to implement the RAG and fine-tuned LLM architecture.
-
-Agenda
-Lab 1: Advanced Techniques in RAG.
-Lab 2: LLM Fine-Tuning
-Lab 3: RAG and Fine-Tuned Model Benchmarking.
-
-Presenters 
-José Cassio dos Santos Junior 
-A member of the Amazon Machine Learning University team. He is responsible for Curriculum Development for Advanced Modules. As a previous Senior Data Scientist on the AWS LATAM Professional Services Data Science team, he was responsible for experiments and MVP engagements with important clients in the Brazilian market. Cassio has over 20 years of experience working as a software engineer. As a business process management expert, he participated in BPO projects for more than 7 years. Cass also has more than 10 years of teaching experience at colleges and acting as instructor for Linux certification preparation and Microsoft Innovation Center bootcamps. He holds a Master’s degree in Computer Engineering, a Bachelor’s degree in Physics, and a Bachelor’s degree in Business Administration, specialized in IT Quantitative Methods.
-Rachel Hu 
-The Co-founder & CEO of CambioML, which builds open-source libraries to prepare high quality data for RAG and LLM finetuning. Previously she was an Applied Scientist at AWS AI, an ML instructor at Amazon Machine Learning University, and a speaker at top conferences including KDD, NVIDIA GTC, AWS re:Invent, MLOps Summit, etc. Rachel co-authored Dive into Deep Learning (D2L.ai), an open-source interactive textbook adopted by over 500 universities around the world. Rachel received her master degree of statistics from University of California, Berkeley, and bachelor of Math from University of Waterloo, Canada.
-Richard Song 
-The Co-Founder and CEO of Epsilla Inc, a one- stop RAGaaS platform for building production ready LLM applications. With a background in big data, vector graph databases, and high performance computing, Richard helps customers build production-ready RAG systems connected with large scale proprietary data. Richard holds a Master’s degree in Computer Science from Cornell University.
-Yunfei Bai 
-A Senior Solutions Architect at Amazon Web Services. With over 15 years’ experience on AI/ML, Data Science and Analytics, Yunfei helps AWS customers adopt AI/ML and Generative AI services to deliver business results. Prior to AWS, he worked in various roles including product manager and solution consultant in multiple industries, designed and delivered AI/ML and data analytics solutions that overcome complex technical challenges and drive strategic objectives. Yunfei has a PhD in Electronic and Electrical Engineering. He has published research papers and blog posts, and serves as a journal reviewer.
-
+<p class="p1"><span class="s1">&lt;!DOCTYPE html&gt;</span></p>
+<p class="p1"><span class="s1">&lt;html&gt;</span></p>
+<p class="p1"><span class="s1">&lt;head&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;title&gt;Domain-Driven LLM Development: Insights into RAG and Fine- Tuning Practices&lt;/title&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/head&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;body&gt;</span></p>
+<p class="p1"><span class="s1">&lt;h1&gt; Domain-Driven LLM Development: Insights into RAG and Fine- Tuning Practices &lt;/h1&gt;<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;h2&gt;Abstract&lt;/h2&gt;</span></p>
+<p class="p1"><span class="s1">To improve Large Language Model (LLM) performance on domain specific applications, ML developers often leverage Retrieval Augmented Generation (RAG) and LLM Fine-Tuning. RAG extends the capabilities of LLMs to specific domains or an organization's internal knowledge base, without the need to retrain the model. On the other hand, Fine-Tuning approach updates LLM weights with domain-specific data to improve performance on specific tasks. The fine-tuned model is particularly effective to systematically learn new comprehensive knowledge in a specific domain that is not covered by the LLM pre-training. This tutorial walks through the RAG and Fine-Tuning techniques, discusses the insights of their advantages and limitations, and provides best practices of adopting the methodologies for the LLM tasks anduse cases. The hands-on labs demonstrate the advanced techniques to optimize the RAG and fine-tuned LLM architecture that handles domain specific LLM tasks. The labs in the tutorial are designed by using a set of open-source python libraries to implement the RAG and fine-tuned LLM architecture.</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;h2&gt;Agenda&lt;/h2&gt;</span></p>
+<p class="p1"><span class="s1">Lab 1: Advanced Techniques in RAG.</span></p>
+<p class="p1"><span class="s1">Lab 2: LLM Fine-Tuning</span></p>
+<p class="p1"><span class="s1">Lab 3: RAG and Fine-Tuned Model Benchmarking.</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;/h2&gt;Presenters &lt;/h2&gt;</span></p>
+<p class="p1"><span class="s1">José Cassio dos Santos Junior<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">A member of the Amazon Machine Learning University team. He is responsible for Curriculum Development for Advanced Modules. As a previous Senior Data Scientist on the AWS LATAM Professional Services Data Science team, he was responsible for experiments and MVP engagements with important clients in the Brazilian market. Cassio has over 20 years of experience working as a software engineer. As a business process management expert, he participated in BPO projects for more than 7 years. Cass also has more than 10 years of teaching experience at colleges and acting as instructor for Linux certification preparation and Microsoft Innovation Center bootcamps. He holds a Master’s degree in Computer Engineering, a Bachelor’s degree in Physics, and a Bachelor’s degree in Business Administration, specialized in IT Quantitative Methods.</span></p>
+<p class="p1"><span class="s1">Rachel Hu<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">The Co-founder &amp; CEO of CambioML, which builds open-source libraries to prepare high quality data for RAG and LLM finetuning. Previously she was an Applied Scientist at AWS AI, an ML instructor at Amazon Machine Learning University, and a speaker at top conferences including KDD, NVIDIA GTC, AWS re:Invent, MLOps Summit, etc. Rachel co-authored Dive into Deep Learning (D2L.ai), an open-source interactive textbook adopted by over 500 universities around the world. Rachel received her master degree of statistics from University of California, Berkeley, and bachelor of Math from University of Waterloo, Canada.</span></p>
+<p class="p1"><span class="s1">Richard Song<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">The Co-Founder and CEO of Epsilla Inc, a one- stop RAGaaS platform for building production ready LLM applications. With a background in big data, vector graph databases, and high performance computing, Richard helps customers build production-ready RAG systems connected with large scale proprietary data. Richard holds a Master’s degree in Computer Science from Cornell University.</span></p>
+<p class="p1"><span class="s1">Yunfei Bai<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">A Senior Solutions Architect at Amazon Web Services. With over 15 years’ experience on AI/ML, Data Science and Analytics, Yunfei helps AWS customers adopt AI/ML and Generative AI services to deliver business results. Prior to AWS, he worked in various roles including product manager and solution consultant in multiple industries, designed and delivered AI/ML and data analytics solutions that overcome complex technical challenges and drive strategic objectives. Yunfei has a PhD in Electronic and Electrical Engineering. He has published research papers and blog posts, and serves as a journal reviewer.</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;/body&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/html&gt; <span class="Apple-converted-space"> </span></span></p>
 </body>
-</html>  
+</html>
