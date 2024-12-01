@@ -1,29 +1,31 @@
 ## Yann LeCun's interview with Nikhil Kamath
 
-这篇文章主要是关于杨立昆在人工智能领域的最新访谈内容。文章首先介绍了大语言模型的巨大成功，它能够处理长序列的文本数据，通过多头注意力机制等技术捕捉文本中单词之间的复杂关系，从而实现对文本的深入理解和生成。然后，杨立昆提倡一种新的架构，即联合嵌入预测架构（JEPA），用于解决当前人工智能系统在理解物理世界方面的局限性。
+Here is the translation:
 
-接下来，文章介绍了目标驱动的人工智能，也就是System 2，它能够进行更为深思熟虑的计划和推理，比如根据目标规划一系列动作、预测这些动作的结果，并且根据结果调整策略。这更接近人类的思维和决策过程。
+The interview mainly discussed the importance of artificial intelligence, especially open-source platforms and language models in future development. Yang Lixin mentioned his giant language model (LLAMA) and its capabilities such as modeling, processing long-sequence text data, and capturing complex relationships between words.
 
-在人工智能的未来发展方面，杨立昆认为开源平台将在未来的人工智能发展中占据主导地位。开源平台具有许多优势，比如可移植性、灵活性、安全性和低成本等。这将会让它发展成为人工智能的主流趋势。
+He emphasized that language models can more deeply understand and generate text rather than simply predicting the next letter or word.
 
-文章还提到了杨立昆对印度年轻人的建议，他鼓励年轻人攻读博士学位或硕士学位，深入学习人工智能技术。高等学位的学习过程能够训练年轻人发明新事物的能力、确保他们所使用的方法具有科学性和创新性。
+Yang Lixin also discussed his view on artificial intelligence as goal-driven AI (System 2), which is different from the reactive AI represented by large language models (System 1). Goal-driven AI can make more thoughtful plans, reason, predict the results of actions, and adjust strategies based on results. This is closer to human thought and decision-making processes.
 
-最后，文章提到了杨立昆对想要在人工智能领域创业的年轻人的建议，他建议选择利用开源基础模型，比如LLAMA等，然后针对特定垂直应用进行微调。 Yang 立昆 也 提 到 了 数 些 个 人 可 以 在 人 工 智 能 领 域 进 行 创 新 的 方 式 ， 如 使用 AI 来 帮 助律师进行案例分析、合同审查等工作， 或者使用 AI 来提供医疗辅助，帮助患者初步判断症状。
+Yang Lixin also talked about the importance of open-source platforms in future AI development. He believes that open-source platforms will become a mainstream trend because they have advantages such as portability, flexibility, security, and low cost. This will greatly change the way humans interact with technology, for example, through devices like smart glasses to get AI assistance.
 
-总的来说，这篇文章主要是关于杨立昆在人工智能领域的最新访谈内容，他提出了许多关于人工智能未来发展和创业的观点和建议。
+For young people in India, Yang Lixin suggested several proposals, including pursuing doctoral or master's degrees to deeply learn AI technologies. He believes that higher education can train young people to invent new things, ensuring that their methods are scientific and innovative.
+
+For young people who want to start a business in the AI field, Yang Lixin advises choosing open-source foundation models like LLAMA, then fine-tuning them for specific vertical applications. For example, there is great potential in areas such as law, accounting, business information, education auxiliary tools, and healthcare.
+
+Finally, Yang Lixin talked about his active presence on social networks and how he feels like a complete fool in some circles. However, he still hopes that his views can provide inspiration to others and encourages them to watch the original video for more information.
 
 #### Translation 
 
-This article mainly discusses Yang Lit Kun's latest interview content in the field of artificial intelligence. The article first introduces the huge success of large language models, which can process long sequences of text data and capture complex relationships between words through techniques such as multi-head attention, thereby achieving deep understanding and generation of text.
+这个访谈主要讨论了人工智能领域尤其是开源平台和语言模型在未来发展中的重要性。杨立昆提到了他所创立的巨型语言模型(LLAMA)及其能力建模、处理长序列文本数据、捕捉文本中单词之间复杂关系等功能。他强调了语言模型能够更深入地理解和生成文本，而不是简单地预测下一个字母或词汇。
 
-Yang Lit Kun advocates for a new architecture called Joint Embedding Prediction Architecture (JEPA) to solve the limitations of current artificial intelligence systems in understanding the physical world.
+杨立昆还提到了他对人工智能领域的另一种看法，即目标驱动的人工智能(System 2)，与大语言模型所代表的反应式人工智能(System 1)不同。目标驱动的人工智能能够进行更为深思熟虑的计划和推理，预测这些动作的结果，并根据结果调整策略。这更接近人类的思维和决策过程。
 
-The article then introduces goal-driven artificial intelligence, also known as System 2, which can perform more deliberate planning and reasoning, such as planning a series of actions based on goals, predicting the results of these actions, and adjusting strategies based on results. This is closer to human thought and decision-making processes.
+杨立昆也谈到了他对开源平台在未来人工智能发展中的重要性。他认为开源平台将成为主流趋势，因为它具有可移植性、灵活性、安全性和低成本等优势。这将极大地改变人类与技术的交互方式，例如通过智能眼镜等设备来获取人工智能的帮助。
 
-Regarding the future development of artificial intelligence, Yang Lit Kun believes that open-source platforms will dominate in the future. Open-source platforms have many advantages, such as portability, flexibility, security, and low cost, which will make them a mainstream trend in artificial intelligence.
+对于印度年轻人，杨立昆提出了几些建议，包括攻读博士学位或硕士学位深入学习人工智能技术。他认为高等学位的学习过程能够训练年轻人发明新事物的能力，确保他们所使用的方法具有科学性和创新性。
 
-The article also mentions Yang Lit Kun's advice to young people in India, encouraging them to pursue PhDs or master's degrees in computer science and AI. Higher education can train young people to invent new things, ensure that their methods have scientificity and innovativeness.
+对于想要在人工智能领域创业的年轻人，杨立昆建议选择利用开源基础模型，如LLAMA等，然后针对特定垂直应用进行微调。例如，在法律、会计、商业信息、教育辅助工具、医疗保健等领域都有着巨大的潜力。
 
-Finally, the article mentions Yang Lit Kun's advice to young entrepreneurs who want to start a business in the field of artificial intelligence. He suggests choosing open-source foundation models such as LLAMA, then fine-tuning them for specific vertical applications.
-
-Yang Lit Kun also mentioned some ways that individuals can innovate in the field of AI, such as using AI to assist lawyers with case analysis and contract review, or using AI to provide medical assistance and help patients initially determine symptoms.
+最后，杨立昆谈到了自己在社交网络上的活跃性和在某些圈子里被认为是个十足的傻瓜的感受。然而，他仍然希望他的观点能带给大家一些启发，并鼓励大家去看原视频收获更多信息。
