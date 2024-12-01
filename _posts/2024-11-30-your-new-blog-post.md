@@ -1,4 +1,4 @@
-## My new post 
+## Interview with Yann LeCun
 
 This article mainly discusses Yang Lit Kun's latest interview content in the field of artificial intelligence. The article first introduces the huge success of large language models, which can process long sequences of text data and capture complex relationships between words through techniques such as multi-head attention, thereby achieving deep understanding and generation of text.
 
