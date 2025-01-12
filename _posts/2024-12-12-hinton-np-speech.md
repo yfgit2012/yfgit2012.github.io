@@ -1,23 +1,37 @@
 ## Hinton Nobel Prize speech
 
-Here is the translation:
+Here is the translation of the contents from the XML tags:
 
-Sinton discussed the concept of Boltzmann Machine and Restricted Boltzmann Machine (RBM) in his lecture. He emphasized the limitations of the Boltzmann machine learning algorithm, particularly when dealing with complex images and large datasets.
+This lecture mainly discusses the development and progress of deep neural networks (DNNs), particularly the introduction of Boltzmann machines (BM) and restricted Boltzmann machines (RBM) and their applications in image recognition, etc.
 
-To address this issue, he introduced a variant called Restricted Boltzmann Machine (RBM). This type of network has restricted connections between neurons, only allowing visible units and hidden units to connect with each other, but not between themselves.
+Firstly, the speaker mentions that a Boltzmann machine is an early neural network model that simulates human brain activity to achieve learning and prediction functions. Boltzmann machines can well capture statistical rules in images and generate more realistic images. However, their learning speed is very slow, especially when the network size is large.
 
-Sinton mentioned the shortcut learning algorithm that can significantly simplify calculations and improve learning speed. This algorithm adjusts the weights between neurons by comparing original training images and new generated visible unit activations until the network can generate increasingly realistic images.
+To solve this problem, a variant called restricted Boltzmann machine (RBM) was proposed. The main difference between RBM and ordinary BM lies in that its neural connections are limited, only allowing visible units and hidden units to be connected while hidden units do not connect with each other. This greatly simplifies the calculation process, making the learning speed significantly improved.
 
-He also mentioned a method of stacking multiple RBMs to build a deep neural network. By doing so, it is possible to learn very complex feature representations and achieve good results. In actual applications, this type of deep neural network has been successful in image recognition and speech recognition fields.
+Then, the speaker mentions the shortcut learning algorithm, which is a method used to train RBMs. This algorithm calculates the probability of each hidden unit being activated and visible unit being activated to achieve learning. This algorithm can greatly reduce computational costs and quickly learn correct weights.
 
-Sinton believes that these early learning algorithms, although not the most perfect solutions, laid the foundation for the development of later more advanced algorithms and techniques. He is optimistic about exploring "sleeping" or unlearning methods to find a more biologically plausible algorithm that avoids backpropagation's reverse paths and ultimately provides new ways to understand how the brain learns.
+Later, the speaker talks about stacking multiple RBMs to build a deep neural network. By continuously training and stacking RBMs, it is possible to gradually learn more complex feature representations, achieving breakthroughs in image recognition, speech recognition, etc.
+
+Finally, the speaker mentions that although these early learning algorithms are not perfect solutions, they have laid the foundation for later more advanced algorithms and technologies, and can avoid backpropagation's reverse paths, ultimately pointing us towards understanding how the human brain learns.
+
+In short, this lecture is about deep neural networks and Boltzmann machines in image recognition, etc. and their progress.
 
 #### Translation 
 
-辛顿在他的演讲中讨论了玻尔兹曼机（Boltzmann Machine）和受限玻尔兹曼机（Restricted Boltzmann Machine, RBM）的概念。他强调了玻尔兹曼机学习算法的局限性，特别是在处理复杂图像和大规模数据时。为了解决这个问题，他介绍了一种称为受限玻尔兹曼机（RBM）的变体。这类网络的神经元连接是受限的，只允许可见单元和隐藏单元之间有连接，而没有相互之间的连接。
+这篇演讲主要是关于深度神经网络（Deep Neural Network, DNN）的发展和进步。特别是关于玻尔兹曼机（Boltzmann Machine, BM）和受限玻尔兹曼机（Restricted Boltzmann Machine, RBM）的介绍及其在图像识别等领域的应用。
 
-辛顿提到了捷径学习算法，它能够大大简化计算过程并提高学习速度。这种算法通过比较原始训练图像和新生成的可见单元激活模式来调整神经元之间的连接权重，直到网络能够生成越来越逼真的图像。
+首先，演讲者提到玻尔兹曼机是一种早期的神经网络模型，它通过模拟人脑的大脑活动来实现学习和预测功能。玻尔兹曼机能够很好地捕捉图像中的统计规律，从而生成更逼真的图像。但是，它们的学习速度非常慢，尤其是在网络规模比较大的时候。
 
-辛顿还提到了堆叠多个RBM来构建一个深度神经网络的方法。通过这种方式，可以学习到非常复杂的特征表示并取得很好的效果。在实际应用中，这种深度神经网络已经在图像识别、语音识别等领域取得了成功。
+为了解决这个问题，一种叫做受限玻尔兹曼机（RBM）的变体被提出来。RBM 和普通玻尔兹曼机的主要区别在于，它的神经元连接是受限的，只允许可见单元和隐藏单元之间有连接，而隐藏单元之间没有连接。这大大简化了计算过程，使得学习速度得到了显著提高。
 
-辛顿认为这些早期的学习算法虽然可能不是最完美的解决方案，但它们为后来更先进的算法和技术的发展奠定了基础。他乐观地抱着“睡眠”进行去学习（unlearning）的方法，以期能够找到一种更具备生物学合理性的算法，并且避免反向传播的逆向路径，最终为我们理解人脑如何学习提供新的途径。
+然后，演讲者提到捷径学习算法，这是一种用于训练RBM的方法。这个方法通过计算每个隐藏单元被激活的概率和可见单元被激活的概率来实现学习。这种算法能够大大减少计算成本，并且能够快速学习到正确的权重。
+
+之后，演讲者提到了堆叠多个RBM来构建一个深度神经网络的方法。这通过不断地训练和堆叠RBMs，可以逐渐学习到更复杂的特征表示，从而实现图像识别、语音识别等领域的突破。
+
+最后，演讲者提到这些早期的学习算法虽然不是最完美的解决方案，但它们为后来更先进的算法和技术的发展奠定了基础，并且能够避免反向传播的逆向路径，最终会为我们理解人脑如何学习指明道路。
+
+总之，这篇演讲是关于深度神经网络和玻尔兹曼机在图像识别等领域的应用及其进步。
+
+#### Reference: 
+
+https://www.youtube.com/watch?v=lPIVl5eBPh8&t=0s

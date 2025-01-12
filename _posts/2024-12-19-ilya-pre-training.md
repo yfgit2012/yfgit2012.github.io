@@ -1,23 +1,39 @@
 ## Ilya Sutskever: pre-training is over
 
-Ilya's speech primarily revolved around the development of AI models, self-awareness, and superintelligence. He emphasized that in the future we will face extremely unpredictable AI systems that can understand things from limited data without getting confused. At the same time, he believes that self-awareness is useful as it forms part of ourselves and also a part of our world model.
+Here is the translation:
 
-Ilya predicted that when all these features are combined with self-awareness, they will bring properties and characteristics that are completely different from existing systems, which will have incredible abilities. Although he cannot determine when superintelligence will be achieved, he believes it will happen eventually.
+<document>This is an article about the future trends of AI development. The article introduces the super intelligent possibility mentioned by Ilya in his speech, which includes:
 
-In the Q&A session, Ilya answered questions from the audience, discussing topics such as biological inspiration, automatic error correction in models, and whether large language models can generalize beyond distributed multi-hop reasoning. His speech sparked controversy and discussion among industry professionals, including Google's Logan Kilpatrick and former Meta chief of staff Drew Brough.
+1. The emergence of super intelligence will bring new abilities and characteristics with incredible capabilities.
+2. Super intelligence can understand things from limited data without being puzzled.
+3. Self-awareness is also useful, constituting a part of ourselves and our world model.
+4. When all these features are combined with self-awareness, it will bring properties and characteristics completely different from existing systems.
 
-They disagreed with Ilya's conclusion that pretraining is terminated, stating that human data has not been exhausted yet, and that we are primarily dealing with written text issues but still have great potential in the visual domain and other multimodal data. They also mentioned the possibility of future robots collecting vast amounts of multimodal data, further enriching our data resources.
+The article also raises several questions:
 
-Therefore, most industry professionals believe that pretraining will not end, but rather continue to evolve and improve to adapt to growing data demands and increasingly complex tasks.
+1. Are there other biological structures belonging to human cognition worth exploring? Ilya thinks this depends on the abstract level we see.
+2. Can model automatic correction in the future mean it can identify when illusions appear? Ilya gave a positive answer.
+3. Can large language models generalize beyond distributed multi-hop reasoning? Ilya did not give a direct answer.
+
+Finally, the article mentions that Google bigwig Rogen Killepatrick and Drewfus Batria, former Meta embodied intelligence team senior director, disagreed with Ilya's conclusions.</document>
 
 #### Translation 
 
-Ilya 的演讲主要围绕了 AI 模型的发展、自我意识和超级智能等主题。他强调将来我们将面对一些极其不可预测的 AI 系统，它们能够从有限的数据中理解事物，而不会感到困惑。同时，他认为自我意识也是有用的，它构成了我们自身的一部分，也是我们世界模型中的一个部分。
+这是一篇关于未来AI发展趋势的文章。文章介绍了Ilya在演讲中提出的超级智能可能带来的变化和挑战，其中包括：
 
-Ilya 预言了当所有这些特性与自我意识结合在一起时，会带来与现有系统完全不同的性质和特性，这些系统将拥有令人难以置信的惊人能力。尽管他不能确定超级智能何时实现，但相信它终将发生。
+1. 超级智能的出现将会带来新的能力和特性，它们将具有令人难以置信的惊人能力。
+2. 超级智能将能够从有限的数据中理解事物，并不会感到困惑。
+3. 自我意识也是有用的，它构成了我们自身的一部分，也是我们的世界模型中的一部分。
+4. 当所有这些特性与自我意识结合在一起时，将会带来与现有系统完全不同的性质和特性。
 
-在问答环节中,Ilya回答了观众的问题，讨论了生物学上的灵感、模型的自动纠错，以及大语言模型能否泛化超出分布的多跳推理等问题。他的演讲结束后引起了一些业界人士的反驳和讨论，其中包括谷歌大佬洛根·基尔帕特里克和前Meta具身智能团队高级总监德鲁夫·巴特拉。
+文章也提到了几个问题：
 
-他们表示不同意Ilya关于预训练终结的结论，认为人类的数据还没有用完，目前我们主要是处理了书写文本的问题，但在视觉领域和其他多模态数据方面，我们仍然有很大潜力。同时，他们也提到了未来机器人能够采集海量多模态数据的能力，这会进一步丰富我们的数据资源。
+1. 是否有其他属于人类认知的生物结构值得去探索？Ilya认为这取决于我们所看到的抽象层面。
+2. 模型的自动纠错在未来意味着它能够识别什么时候出现了幻觉？Ilya给出了肯定的答复。
+3. 大语言模型能否泛化超出分布的多跳推理？Ilya没有正面回答这个问题。
 
-因此，大部分业界人士认为，预训练并不会终结，而是会持续发展和改善，以适应不断增长的数据需求和越来越复杂的任务。
+最后，文章提到了谷歌大佬洛根·基尔帕特里克和前Meta具身智能团队的高级总监德鲁夫·巴特拉对Ilya结论的不同意。
+
+#### Reference: 
+
+https://www.youtube.com/watch?v=1yvBqasHLZs
