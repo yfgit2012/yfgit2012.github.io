@@ -2,23 +2,23 @@
 
 Here is the translation:
 
-<document>This sharing includes Andrew Ng's design patterns for intelligent agents and multi-agent collaboration. These patterns can help us solve early existing problems, improve the effectiveness of AI agents, and simulate a more realistic working environment.
+<document>This sharing includes Andrew Ng's design patterns for intelligent agents and multi-agent collaboration. These patterns can help us solve early existing problems, improve the effectiveness of AI agents, and simulate a more realistic working environment.    
 
-Main contents include:
+Main contents include:   
 
-1.  **Intelligent Agent Cycle**: Andrew Ng explains the process of an intelligent agent workflow, which involves recognizing a boy's pose, then redescribing the image with speech, and finally reading out the description using a text-to-speech model. This design pattern can help us solve early existing problems.
-2.  **Multi-Agent Collaboration**: Andrew Ng introduces ChatDev, an entirely open-source paper that allows multiple agents to play different roles (such as CEO, designer, product manager, and tester). The collaboration between these agents brings about richer and more varied inputs and simulates a scenario closer to a real working environment.
-3.  **Fast Token Generation**: Andrew Ng emphasizes the importance of fast token generation, because it can enable an intelligent agent cycle multiple times and improve efficiency.
+1.  **Intelligent Agent Cycle**: Andrew Ng explains the process of an intelligent agent workflow, which involves recognizing a boy's pose, then redescribing the image with speech, and finally reading out the description using a text-to-speech model. This design pattern can help us solve early existing problems.    
+2.  **Multi-Agent Collaboration**: Andrew Ng introduces ChatDev, an entirely open-source paper that allows multiple agents to play different roles (such as CEO, designer, product manager, and tester). The collaboration between these agents brings about richer and more varied inputs and simulates a scenario closer to a real working environment.    
+3.  **Fast Token Generation**: Andrew Ng emphasizes the importance of fast token generation, because it can enable an intelligent agent cycle multiple times and improve efficiency.    
 
-In summary, this sharing highlights the important role of intelligent agent workflow and multi-agent collaboration in AI. These design patterns can help us solve early existing problems and simulate a more realistic working environment.
+In summary, this sharing highlights the important role of intelligent agent workflow and multi-agent collaboration in AI. These design patterns can help us solve early existing problems and simulate a more realistic working environment.    
 
-Some related suggestions are:
+Some related suggestions are:    
 
-1.  **Learn More**: Understand the details of concepts such as intelligent agent workflow, multi-agent collaboration, and fast token generation so that you can effectively apply them in actual work.
-2.  **Try Different Design Patterns**: Try using an intelligent agent cycle or multi-agent collaboration to solve different problems and improve your AI capabilities.
-3.  **Be Patient**: When using an intelligent agent workflow, it may take several minutes or even hours for these AI agents to handle tasks.
+1.  **Learn More**: Understand the details of concepts such as intelligent agent workflow, multi-agent collaboration, and fast token generation so that you can effectively apply them in actual work.    
+2.  **Try Different Design Patterns**: Try using an intelligent agent cycle or multi-agent collaboration to solve different problems and improve your AI capabilities.    
+3.  **Be Patient**: When using an intelligent agent workflow, it may take several minutes or even hours for these AI agents to handle tasks.    
 
-I hope these suggestions can help you better understand the content of this sharing. If you have any questions or ideas, feel free to leave a comment.</document>
+I hope these suggestions can help you better understand the content of this sharing. If you have any questions or ideas, feel free to leave a comment.</document>    
 
 #### Translation 
 
