@@ -1,4 +1,4 @@
-## DeepSeek Debrief: >128 Days Later
+## DeepSeek Debrief: 128 Days Later
 
 Here are the contents translated into English:
 
