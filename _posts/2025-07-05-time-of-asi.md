@@ -1,30 +1,72 @@
 ## The time of ASI: Masayoshi Son speech
 
-Here are the contents of the document translated into English:
+<think>
+Okay, let's see. The user provided a long document about a shareholder meeting of SoftBank where Masayoshi Son made a lot of announcements. The task is to summarize this into a concise answer. 
 
-SoftBank's CEO Masayoshi Son emphasized at a shareholder meeting that his company aims to become the world's number one platform service provider for Artificial Super Intelligence (ASI). He believes ASI will disrupt all traditional industries and requires a company that can provide the underlying hardware foundation and drive ecosystem growth.
+First, I need to identify the main points. The key elements are Son's ambition to be the first in the ASI (Artificial Super Intelligence) world, the investments in Arm and OpenAI, the strategic partnerships, the 4.8 trillion yen investment in OpenAI, the "Crystal Intelligence" project, and his comments on Japan's AI development and company governance.
 
-Masayoshi Son announced an unprecedented investment plan, increasing SoftBank's stake in OpenAI by 4.8 trillion yen. He stressed that this investment required enormous courage but has decided to bet everything on ASI.
+I should structure the summary to highlight these points. Start with the main goal of becoming the top ASI platform. Then mention the two core assets: Arm and OpenAI, including the investment figures. Next, the projects like "Crystal Intelligence" and the "Star Gate" initiative. Also, include Son's views on AI's impact on jobs and Japan's position. Finally, touch on governance and the future of the company.
 
-Son shared his experiences with Sam Altman, agreeing to invest $100 billion initially, but ultimately choosing Microsoft instead. He responded to questions about corporate governance, technical competition, and investment logic, stating that achieving 300-year growth requires choosing a path with long-term potential like ASI.
+Need to make sure the summary is clear and covers all critical aspects without getting too detailed. Avoid any personal opinions, just the facts from the document. Check for any specific numbers or names that are important, like the 4.8 trillion yen, the 50% market share for Arm in data centers, and the 500 million users of ChatGPT. Also, mention the potential for significant growth and the challenges in Japan's AI adoption.
 
-Regarding talent development, Son emphasized that SoftBank will recruit top talents globally and provide them with challenging tasks and opportunities at the forefront of technology.
+Wait, the user wants the answer in Chinese, so I need to translate the summary accordingly. Make sure the terms like ASI, Arm, OpenAI are correctly translated. Also, ensure that the key points are all included and the summary is concise, maybe around 200-300 words. Let me put it all together now.
+</think>
 
-Son acknowledged the "discount" issue where SoftBank's market value is significantly lower than its net asset value (NAV), but sees it as a great buying opportunity. He stressed that resolving this issue requires not just financial engineering, but rather growing the company's value 5, 10, or even 20 times.
+软银董事长孙正义在股东大会上明确了公司未来战略，核心目标是成为**人工智能超级智能（ASI）世界**的全球第一平台服务商。他提出两大核心资产：**Arm**和**OpenAI**，并宣布巨额投资以支撑这一愿景。
 
-Finally, Son reaffirmed his determination to become the world's number one platform service provider for ASI within the next decade.
+1. **Arm**：  
+   - 定位为“世界第一的硬件基础”，目前占据全球99%智能手机芯片市场，并在云数据中心领域市场份额突破50%。  
+   - 未来所有芯片将集成AI核心技术，成为软银构建ASI生态的底层硬件支撑。  
+
+2. **OpenAI**：  
+   - 投资总额达**4.8万亿日元**（含已投和计划投资），创未上市公司单笔投资纪录。  
+   - OpenAI估值超40万亿日元，其产品ChatGPT周活跃用户超5亿，AI能力已通过博士资格考试，具备“思考”和链式推理能力。  
+   - 双方合作打造“Crystal Intelligence”系统，整合软银2500个独立系统为单一超级智能体，计划2023年12月分阶段应用。  
+
+3. **战略项目**：  
+   - **“星际之门”**：通过分阶段项目融资（软银+OpenAI注资+债务融资）建设AI数据中心，OpenAI营收年化增速达100%。  
+   - **内部AI应用**：为每位员工部署100个AI Agent，目标成为全球内部AI应用数量第一的企业，年投入约30亿美元。  
+
+4. **愿景与挑战**：  
+   - 预言ASI将颠覆物流、制造、医疗等传统行业，同时强调AI需与人类共情，追求“人类幸福”。  
+   - 警示日本在AI领域落后，呼吁学界和媒体支持AI发展，避免“批判性思维”阻碍创新。  
+
+孙正义强调，软银将“全押”于ASI时代，无论能否实现，都要争第一。他同时透露，接班人将通过内部竞争选拔，而非外部空降，并承诺持续回购股份以提升市值。</document>
 
 #### Translation 
 
-孙正义在软银股东大会上的发言中，首先强调了软银的目标是成为ASI（Artificial Super Intelligence）世界第一的平台服务商。在他看来，ASI将改变所有传统行业，并且需要一家能够提供整个生态链底层硬件基础、推动生态发展的公司。孙正义认为ARM将成为软银AI战略核心资产，而OpenAI则是生成式AI领域无可争议的世界第一。
+<think>
+Okay, let's see. The user provided a long document about a shareholder meeting of SoftBank where Masayoshi Son made a lot of announcements. The task is to summarize this into a concise answer. 
 
-孙正义宣布了一项史无前例的投资计划，增持OpenAI股份，总额达4.8万亿日元。他强调了这一投资需要巨大勇气，但是他已经决定All-in，将一切都押注在ASI的世界。孙正义还分享了与Sam Altman会面的往事，当时他曾同意投资100亿美元，但OpenAI最终选择了微软。
+First, I need to identify the main points. The key elements are Son's ambition to be the first in the ASI (Artificial Super Intelligence) world, the investments in Arm and OpenAI, the strategic partnerships, the 4.8 trillion yen investment in OpenAI, the "Crystal Intelligence" project, and his comments on Japan's AI development and company governance.
 
-孙正义对公司治理、技术竞争、投资逻辑等问题进行了回应。他谈到如何实现300年成长，选择ASI这个具备长期发展潜力的赛道是根本。对于人才培养，他表示软银会从全球招募优秀人才，并为他们提供能够挑战的、最前沿的课题和机会。
+I should structure the summary to highlight these points. Start with the main goal of becoming the top ASI platform. Then mention the two core assets: Arm and OpenAI, including the investment figures. Next, the projects like "Crystal Intelligence" and the "Star Gate" initiative. Also, include Son's views on AI's impact on jobs and Japan's position. Finally, touch on governance and the future of the company.
 
-孙正义承认了软银市值远低于其净资产价值NAV的“折价”问题，但将它视为一个绝佳的买入时机。他强调，解决折价问题的根本之道并非财技，而是如何让公司的价值增长5倍、10倍甚至20倍。
+Need to make sure the summary is clear and covers all critical aspects without getting too detailed. Avoid any personal opinions, just the facts from the document. Check for any specific numbers or names that are important, like the 4.8 trillion yen, the 50% market share for Arm in data centers, and the 500 million users of ChatGPT. Also, mention the potential for significant growth and the challenges in Japan's AI adoption.
 
-最后，孙正义再次重申了自己的决心，想要在未来的10年里成为ASI世界第一的平台服务商。
+Wait, the user wants the answer in Chinese, so I need to translate the summary accordingly. Make sure the terms like ASI, Arm, OpenAI are correctly translated. Also, ensure that the key points are all included and the summary is concise, maybe around 200-300 words. Let me put it all together now.
+</think>
+
+软银董事长孙正义在股东大会上明确了公司未来战略，核心目标是成为**人工智能超级智能（ASI）世界**的全球第一平台服务商。他提出两大核心资产：**Arm**和**OpenAI**，并宣布巨额投资以支撑这一愿景。
+
+1. **Arm**：  
+   - 定位为“世界第一的硬件基础”，目前占据全球99%智能手机芯片市场，并在云数据中心领域市场份额突破50%。  
+   - 未来所有芯片将集成AI核心技术，成为软银构建ASI生态的底层硬件支撑。  
+
+2. **OpenAI**：  
+   - 投资总额达**4.8万亿日元**（含已投和计划投资），创未上市公司单笔投资纪录。  
+   - OpenAI估值超40万亿日元，其产品ChatGPT周活跃用户超5亿，AI能力已通过博士资格考试，具备“思考”和链式推理能力。  
+   - 双方合作打造“Crystal Intelligence”系统，整合软银2500个独立系统为单一超级智能体，计划2023年12月分阶段应用。  
+
+3. **战略项目**：  
+   - **“星际之门”**：通过分阶段项目融资（软银+OpenAI注资+债务融资）建设AI数据中心，OpenAI营收年化增速达100%。  
+   - **内部AI应用**：为每位员工部署100个AI Agent，目标成为全球内部AI应用数量第一的企业，年投入约30亿美元。  
+
+4. **愿景与挑战**：  
+   - 预言ASI将颠覆物流、制造、医疗等传统行业，同时强调AI需与人类共情，追求“人类幸福”。  
+   - 警示日本在AI领域落后，呼吁学界和媒体支持AI发展，避免“批判性思维”阻碍创新。  
+
+孙正义强调，软银将“全押”于ASI时代，无论能否实现，都要争第一。他同时透露，接班人将通过内部竞争选拔，而非外部空降，并承诺持续回购股份以提升市值。
 
 #### Reference: 
 
