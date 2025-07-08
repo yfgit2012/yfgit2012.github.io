@@ -36,14 +36,14 @@ The core concept and industry impact summary of context engineering is as follow
 ---
 
 ### **2. Comparison of Large Models' Support for Context Engineering**
-| **Model**         | **Input Length** | **Native Tool Call Support** | **JSON Output Stability** | **Applicable Scenarios**                     |
-|------------------|------------------|------------------------------|----------------------------|----------------------------------------------|
-| **GPT-4o**       | 128K+            | ✅                           | ✅ (95%+ accuracy)         | Complex tasks, high-precision requirements   |
-| **Gemini 2.5 Pro**| 1M TOKEN         | ✅                           | ✅ (95%+ accuracy)         | Large-scale data processing, multi-step reasoning |
-| **Claude 3**     | 128K+            | ✅                           | ✅ (95%+ accuracy)         | Enterprise applications, multimodal tasks    |
-| **DeepSeek R10528**| 128K             | ✅                           | ✅ (90%+ accuracy)         | Developer experimentation, medium-complexity tasks |
-| **Mistral**      | 64K+             | ⚠ (partial support)          | ⚠ (format errors)          | Simple tasks, rapid prototyping              |
-| **GROK-3**       | 128K+            | ✅                           | ⚠ (inference process may write JSON) | Initial testing, non-structured output needs |
+| **Model**         | **Input Length** | **Native Tool Call Support** | **JSON Output Stability** | **Applicable Scenarios**                     |    
+|------------------|------------------|------------------------------|----------------------------|----------------------------------------------|    
+| **GPT-4o**       | 128K+            | ✅                           | ✅ (95%+ accuracy)         | Complex tasks, high-precision requirements   |    
+| **Gemini 2.5 Pro**| 1M TOKEN         | ✅                           | ✅ (95%+ accuracy)         | Large-scale data processing, multi-step reasoning |    
+| **Claude 3**     | 128K+            | ✅                           | ✅ (95%+ accuracy)         | Enterprise applications, multimodal tasks    |    
+| **DeepSeek R10528**| 128K             | ✅                           | ✅ (90%+ accuracy)         | Developer experimentation, medium-complexity tasks |    
+| **Mistral**      | 64K+             | ⚠ (partial support)          | ⚠ (format errors)          | Simple tasks, rapid prototyping              |    
+| **GROK-3**       | 128K+            | ✅                           | ⚠ (inference process may write JSON) | Initial testing, non-structured output needs |    
 
 **Key Conclusions**:
 - **Pro-tier models** (e.g., GPT-4o, Gemini 2.5 Pro) perform best in context engineering, suitable for complex tasks.
@@ -138,14 +138,14 @@ If you need further discussion on specific model selection or application cases,
 ---
 
 #### **2. 大模型支持上下文工程的能力对比**
-| **模型**         | **输入长度** | **原生工具调用支持** | **JSON格式输出稳定性** | **适用场景**                     |
-|------------------|--------------|----------------------|-------------------------|----------------------------------|
-| **GPT-4o**       | 128K+        | ✅                   | ✅（95%+正确率）        | 复杂任务、高精度需求             |
-| **Gemini 2.5 Pro**| 100万TOKEN   | ✅                   | ✅（95%+正确率）        | 大规模数据处理、多步骤推理       |
-| **Claude 3**     | 128K+        | ✅                   | ✅（95%+正确率）        | 企业级应用、多模态任务           |
-| **DeepSeek R10528**| 128K         | ✅                   | ✅（90%+正确率）        | 开发者实验、中等复杂任务         |
-| **Mistral**      | 64K+         | ⚠（部分支持）       | ⚠（格式错误率较高）     | 简单任务、快速原型开发           |
-| **GROK-3**       | 128K+        | ✅                   | ⚠（推理过程可能写入JSON）| 初期测试、非结构化输出需求       |
+| **模型**         | **输入长度** | **原生工具调用支持** | **JSON格式输出稳定性** | **适用场景**                     |    
+|------------------|--------------|----------------------|-------------------------|----------------------------------|    
+| **GPT-4o**       | 128K+        | ✅                   | ✅（95%+正确率）        | 复杂任务、高精度需求             |    
+| **Gemini 2.5 Pro**| 100万TOKEN   | ✅                   | ✅（95%+正确率）        | 大规模数据处理、多步骤推理       |    
+| **Claude 3**     | 128K+        | ✅                   | ✅（95%+正确率）        | 企业级应用、多模态任务           |    
+| **DeepSeek R10528**| 128K         | ✅                   | ✅（90%+正确率）        | 开发者实验、中等复杂任务         |    
+| **Mistral**      | 64K+         | ⚠（部分支持）       | ⚠（格式错误率较高）     | 简单任务、快速原型开发           |    
+| **GROK-3**       | 128K+        | ✅                   | ⚠（推理过程可能写入JSON）| 初期测试、非结构化输出需求       |    
 
 **关键结论**：
 - **Pro版模型**（如GPT-4o、Gemini 2.5 Pro）在上下文工程中表现最佳，适合复杂任务。
