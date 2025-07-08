@@ -17,7 +17,7 @@ The core concept and industry impact summary of context engineering is as follow
 ---
 
 ### **1. Definition and Value of Context Engineering**
-- **Core Objective**: Achieve **predictability and stability** in AI applications through structured input (e.g., JSON format) and output (e.g., consistent and valuable results), addressing the issue of unpredictable outputs in traditional AI applications.
+- **Core Objective**: Achieve **predictability and stability** in AI applications through structured input (e.g., JSON format) and output (e.g., consistent and valuable results), addressing the issue of unpredictable outputs in traditional AI applications.    
 - **Key Values**:
   - **Stable Output**: Ensure consistent and valuable AI results (e.g., solving specific problems) for every input.
   - **Reusability**: Intermediate results generated via context engineering can be parsed and utilized by subsequent processes, enhancing application efficiency.
@@ -25,13 +25,13 @@ The core concept and industry impact summary of context engineering is as follow
 
 
 #### Steps:
-**Instructions / System Prompt**: An initial set of instructions that define the behavior of the model during a conversation, can/should include examples, rules ….
-**User Prompt**: Immediate task or question from the user.
-**State / History (short-term Memory)**: The current conversation, including user and model responses that have led to this moment.
-**Long-Term Memory**: Persistent knowledge base, gathered across many prior conversations, containing learned user preferences, summaries of past projects, or facts it has been told to remember for future use.
-**Retrieved Information (RAG)**: External, up-to-date knowledge, relevant information from documents, databases, or APIs to answer specific questions.
+**Instructions / System Prompt**: An initial set of instructions that define the behavior of the model during a conversation, can/should include examples, rules ….    
+**User Prompt**: Immediate task or question from the user.    
+**State / History (short-term Memory)**: The current conversation, including user and model responses that have led to this moment.    
+**Long-Term Memory**: Persistent knowledge base, gathered across many prior conversations, containing learned user preferences, summaries of past projects, or facts it has been told to remember for future use.    
+**Retrieved Information (RAG)**: External, up-to-date knowledge, relevant information from documents, databases, or APIs to answer specific questions.    
 **Available Tools**: Definitions of all the functions or built-in tools it can call (e.g., check_inventory, send_email).
-**Structured Output**: Definitions on the format of the model's response, e.g. a JSON object.    
+**Structured Output**: Definitions on the format of the model's response, e.g. a JSON object.      
 
 ---
 
