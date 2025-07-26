@@ -1,12 +1,5 @@
 ## Andrew Ng: Building Faster with AI
 
-<think>
-Okay, the user wants a summary of Andrew Ng's speech on AI. Let me start by reading through the provided content to grasp the main points. The document is in English, so I need to translate it into Chinese as per the instructions.
-
-First, I'll identify the key sections: AI's impact on jobs, programming as a universal skill, challenges in AI development, AI as a building block, critique of industry hype, and the call to action. Each section has specific examples and arguments, like the CFO learning programming or the 1:0.5 engineer-to-product-manager ratio. I need to ensure these are accurately translated while maintaining clarity.
-
-I should also check for any technical terms or proper nouns, like "AGI" (Artificial General Intelligence) and "Midjourney," to ensure they are correctly rendered in Chinese. The user might be looking for a concise summary that highlights the main ideas without unnecessary details. Let me structure the translation into clear sections, mirroring the original document's organization. Finally, I'll review the translation to confirm it's accurate and flows naturally in Chinese.
-</think>
 
 **Andrew Ng 谈人工智能的未来与挑战**  
 
@@ -37,19 +30,6 @@ I should also check for any technical terms or proper nouns, like "AGI" (Artific
 
 #### Translation 
 
-<think>
-Okay, the user provided a long document about a speech by Andrew Ng, and they want a summary. Let me start by reading through the document to understand the key points.
-
-First, the main topics seem to be the future of AI, the importance of learning programming, the role of AI in various industries, and the challenges in AI adoption. There's also a part about the risks of overhyping AGI and the need for open-source innovation.
-
-I need to extract the main ideas without getting lost in the details. The user probably wants a concise summary highlighting the key takeaways. Let me structure it by sections: AI's impact on jobs, the necessity of programming skills, challenges in AI development, and the importance of open-source.
-
-Wait, the user might also be interested in the specific examples given, like the CFO learning programming or the Midjourney example. Including those would make the summary more informative. Also, the part about the 1:0.5 product manager to engineer ratio is a unique point worth mentioning.
-
-I should make sure to mention Ng's rebuttals to common misconceptions like AI causing unemployment and the overhyping of AGI. Also, the part about the risks to open-source and the call to protect it is crucial for the summary.
-
-Let me check if I missed any important points. The user might be looking for a clear, structured summary that's easy to follow. I'll organize it into sections with brief explanations, ensuring all key aspects are covered without unnecessary details.
-</think>
 
 **Summary of Andrew Ng's Speech on AI and Its Future**  
 
