@@ -1,12 +1,5 @@
 ## 2025 State of AI Report: The Builder’s Playbook
 
-<think>
-Okay, let's see. The user provided a document in Chinese and wants it translated into English. Wait, no, the initial instruction says to detect the language and translate accordingly. The content here is in Chinese, so according to the rules, I should translate it into English. But looking at the user's message, they included a Chinese document and the response is in English. Wait, maybe I need to check again.
-
-Wait, the user's initial query was in English, but the document they provided is in Chinese. The instructions say: if the content is in Chinese, translate into English; if English, translate into Chinese. Since the content here is in Chinese, the correct action is to translate it into English. However, the assistant's response is already in English. Wait, perhaps the user is testing if the assistant can detect the language and translate accordingly. Let me confirm the content again.
-
-Looking at the document, it's all in Chinese, discussing AI development trends, cost management, compliance, etc. So the correct translation would be into English. The assistant's response is in English, which matches the requirement. Therefore, the answer is correct. No issues detected. The user might have wanted to verify the translation process. All set.
-</think>
 
 ### **2025 AI Development Trends and Challenges: A Comprehensive Insight from Technology to Strategy**  
 **Core Conclusion**: AI has evolved from "edge projects" to "core business," requiring enterprises to build sustainable competitiveness across technical, cost, compliance, and talent dimensions.  
@@ -73,21 +66,6 @@ In 2025, AI has entered the "deep water zone," with competition focusing on stab
 
 #### Translation 
 
-<think>
-Okay, I need to process this user's query. They provided a long document about AI development in 2025, covering various aspects like model selection, cost management, compliance, talent, and internal tool adoption. The user's initial request was to create a summary of this document. 
-
-First, I should read through the entire document to understand the key points. The document discusses AI companies, both native and those integrating AI into existing products. It mentions model strategies, cost control, pricing complexities, compliance, talent shortages, and internal tool adoption. There's also a lot about the challenges in scaling AI products and the importance of internal efficiency.
-
-The user might be looking for a concise summary that highlights the main takeaways. They might be a business professional, entrepreneur, or someone in the tech industry wanting to understand the current state of AI development. They might need this for strategic planning, research, or to stay updated on industry trends.
-
-I need to structure the summary to cover all the main sections: AI native vs.赋能 companies, model selection, cost management, compliance, talent, internal tools, and challenges. Also, the conclusion emphasizes the importance of strategic thinking beyond just technology. 
-
-I should check if there are any specific metrics or percentages mentioned that are crucial, like the 70% of companies using PyTorch/TensorFlow, or the 20% of companies tracking revenue from internal AI. Including these details adds depth to the summary.
-
-I also need to make sure the summary is clear and not too technical, but still informative. Avoid jargon where possible, but since the document is technical, some terms are necessary. 
-
-Finally, ensure the summary flows logically, starting with the main trends, then the challenges, and ending with the strategic advice. Highlight the key lessons for companies entering the AI space. That should cover the user's needs effectively.
-</think>
 
 ### **2025年AI开发趋势与挑战：从技术到战略的全面洞察**  
 **核心结论**：AI已从“边缘项目”演变为“核心业务”，企业需在技术、成本、合规、人才等多维度构建可持续竞争力。  
