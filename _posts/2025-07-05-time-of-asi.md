@@ -1,17 +1,5 @@
 ## The time of ASI: Masayoshi Son speech
 
-<think>
-Okay, let's see. The user provided a long document about a shareholder meeting of SoftBank where Masayoshi Son made a lot of announcements. The task is to summarize this into a concise answer. 
-
-First, I need to identify the main points. The key elements are Son's ambition to be the first in the ASI (Artificial Super Intelligence) world, the investments in Arm and OpenAI, the strategic partnerships, the 4.8 trillion yen investment in OpenAI, the "Crystal Intelligence" project, and his comments on Japan's AI development and company governance.
-
-I should structure the summary to highlight these points. Start with the main goal of becoming the top ASI platform. Then mention the two core assets: Arm and OpenAI, including the investment figures. Next, the projects like "Crystal Intelligence" and the "Star Gate" initiative. Also, include Son's views on AI's impact on jobs and Japan's position. Finally, touch on governance and the future of the company.
-
-Need to make sure the summary is clear and covers all critical aspects without getting too detailed. Avoid any personal opinions, just the facts from the document. Check for any specific numbers or names that are important, like the 4.8 trillion yen, the 50% market share for Arm in data centers, and the 500 million users of ChatGPT. Also, mention the potential for significant growth and the challenges in Japan's AI adoption.
-
-Wait, the user wants the answer in Chinese, so I need to translate the summary accordingly. Make sure the terms like ASI, Arm, OpenAI are correctly translated. Also, ensure that the key points are all included and the summary is concise, maybe around 200-300 words. Let me put it all together now.
-</think>
-
 软银董事长孙正义在股东大会上明确了公司未来战略，核心目标是成为**人工智能超级智能（ASI）世界**的全球第一平台服务商。他提出两大核心资产：**Arm**和**OpenAI**，并宣布巨额投资以支撑这一愿景。
 
 1. **Arm**：  
@@ -34,18 +22,6 @@ Wait, the user wants the answer in Chinese, so I need to translate the summary a
 孙正义强调，软银将“全押”于ASI时代，无论能否实现，都要争第一。他同时透露，接班人将通过内部竞争选拔，而非外部空降，并承诺持续回购股份以提升市值。</document>
 
 #### Translation 
-
-<think>
-Okay, let's see. The user provided a long document about a shareholder meeting of SoftBank where Masayoshi Son made a lot of announcements. The task is to summarize this into a concise answer. 
-
-First, I need to identify the main points. The key elements are Son's ambition to be the first in the ASI (Artificial Super Intelligence) world, the investments in Arm and OpenAI, the strategic partnerships, the 4.8 trillion yen investment in OpenAI, the "Crystal Intelligence" project, and his comments on Japan's AI development and company governance.
-
-I should structure the summary to highlight these points. Start with the main goal of becoming the top ASI platform. Then mention the two core assets: Arm and OpenAI, including the investment figures. Next, the projects like "Crystal Intelligence" and the "Star Gate" initiative. Also, include Son's views on AI's impact on jobs and Japan's position. Finally, touch on governance and the future of the company.
-
-Need to make sure the summary is clear and covers all critical aspects without getting too detailed. Avoid any personal opinions, just the facts from the document. Check for any specific numbers or names that are important, like the 4.8 trillion yen, the 50% market share for Arm in data centers, and the 500 million users of ChatGPT. Also, mention the potential for significant growth and the challenges in Japan's AI adoption.
-
-Wait, the user wants the answer in Chinese, so I need to translate the summary accordingly. Make sure the terms like ASI, Arm, OpenAI are correctly translated. Also, ensure that the key points are all included and the summary is concise, maybe around 200-300 words. Let me put it all together now.
-</think>
 
 软银董事长孙正义在股东大会上明确了公司未来战略，核心目标是成为**人工智能超级智能（ASI）世界**的全球第一平台服务商。他提出两大核心资产：**Arm**和**OpenAI**，并宣布巨额投资以支撑这一愿景。
 
