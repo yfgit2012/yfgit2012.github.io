@@ -1,14 +1,5 @@
 ## Redefining robotics with Carolina Parada at DeepMind
 
-<think>
-Okay, I need to summarize this article about DeepMind's robot advancements. Let me start by reading through the document carefully. The main points seem to be about how DeepMind is shifting from hardware-focused robotics to developing intelligent systems that can understand and act in the physical world. They mention specific examples like the robot catching a banana and dunking a basketball without prior training. 
-
-The article talks about the use of Gemini models and multimodal data to enable robots to perform tasks by understanding language and visual cues. There's also a part about the "embodied thinking" concept, which is about giving robots physical world understanding similar to humans. The safety measures and dual-system control architecture are important too, especially the fast and slow systems for real-time adjustments.
-
-I should make sure to highlight the key technologies: Gemini model, multimodal data, embodied thinking, and the safety protocols. Also, the comparison with traditional methods and the improvements in data efficiency through techniques like remote demonstration and small-sample transfer learning. The conclusion mentions the future direction towards more autonomous and intelligent robots, not just executing commands but understanding intentions.
-
-Need to keep the summary concise, within 50% of the original length. Avoid any extra information and stick to the main points. Let me structure it into a few paragraphs, then list the key points. Check for clarity and ensure all critical aspects are covered without getting too technical.
-</think>
 
 DeepMind's advancements in robotics focus on transitioning from hardware-centric approaches to developing intelligent systems capable of understanding and interacting with the physical world. Key innovations include the use of Gemini models to process multimodal data (vision, language), enabling robots to perform tasks like catching a banana or dunking a basketball without prior training. The "embodied thinking" concept allows robots to grasp physical properties and plan actions through visual and linguistic cues. A dual-system architecture balances real-time responsiveness (fast system) with complex reasoning (slow system), enhancing adaptability in dynamic environments. Safety measures, such as force control sensors and semantic risk models, ensure reliability in real-world applications. The approach leverages remote demonstration and small-sample transfer learning to improve data efficiency, reducing training iterations from 200,000 to 500 while achieving 78% task success. Future goals aim to shift from executing commands to understanding human intentions, advancing toward fully autonomous, socially aware robotic agents.  
 
@@ -22,15 +13,6 @@ DeepMind's advancements in robotics focus on transitioning from hardware-centric
 
 #### Translation 
 
-<think>
-Okay, I need to summarize this article about DeepMind's robot advancements. Let me start by reading through the document carefully. The main points seem to be about how DeepMind is shifting from hardware-focused robotics to developing intelligent systems that can understand and act in the physical world. They mention specific examples like the robot catching a banana and dunking a basketball without prior training. 
-
-The article talks about the use of Gemini models and multimodal data to enable robots to perform tasks by understanding language and visual cues. There's also a part about the "embodied thinking" concept, which is about giving robots physical world understanding similar to humans. The safety measures and dual-system control architecture are important too, especially the fast and slow systems for real-time adjustments.
-
-I should make sure to highlight the key technologies: Gemini model, multimodal data, embodied thinking, and the safety protocols. Also, the comparison with traditional methods and the improvements in data efficiency through techniques like remote demonstration and small-sample transfer learning. The conclusion mentions the future direction towards more autonomous and intelligent robots, not just executing commands but understanding intentions.
-
-Need to keep the summary concise, within 50% of the original length. Avoid any extra information and stick to the main points. Let me structure it into a few paragraphs, then list the key points. Check for clarity and ensure all critical aspects are covered without getting too technical.
-</think>
 
 DeepMind的机器人技术正从硬件性能转向“心智进化”，通过Gemini模型实现视觉与语言理解，使机器人无需触觉传感器即可完成复杂任务。例如，机器人仅凭视觉抓取香蕉或灌篮，依赖多模态数据和预训练知识库，结合具身认知能力，理解物体物理属性并自主规划动作。团队引入双系统架构（云端慢系统与本地快系统），提升动态环境下的响应速度与安全性，同时通过人类示范数据和小样本迁移学习显著提高训练效率。安全体系涵盖物理力控、语义风险识别及断网应急模式，确保机器人在家庭等场景中的可靠性。未来目标是实现从“执行指令”到“理解意图”的跨越，推动物理世界中的智能主体发展。  
 
