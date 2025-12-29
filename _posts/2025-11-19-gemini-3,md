@@ -1,0 +1,125 @@
+## Google Gemini 3
+
+Google发布Gemini 3 AI模型概要：
+
+**简介：**  
+Google推出了**Gemini 3**，这是由DeepMind团队历时两年开发的最新AI模型。定位为迄今为止最先进的AI，Gemini 3标志着AI创新的重要里程碑，突破了推理、多模态能力和代理功能。其目标是革新用户的学习、构建和规划方式，无缝融入日常生活和工作。
+
+---
+
+**核心功能：**  
+1. **增强的推理与多模态能力：**  
+   - Gemini 3在**复杂推理**（例如在“人类最后的考试”中无需工具得分41.0%）和**多模态整合**方面表现出色，可处理文本、视频和音频，上下文窗口达**100万token**。  
+   - **Deep Think模式**（专用版本）进一步突破界限，在GPQA Diamond中得分93.8%，在视觉推理任务中得分45.1%。  
+
+2. **先进的编码与开发工具：**  
+   - **代理功能**支持端到端软件开发，包括自主规划、编码、调试和执行验证。  
+   - 新平台如**Google Antigravity**和**Gemini CLI**允许开发者在熟悉工具（如GitHub、JetBrains）中使用Gemini 3，AI作为主动合作者而非被动工具发挥作用。  
+
+3. **长期规划与任务管理：**  
+   - Gemini 3展示了**长期任务管理**能力，例如管理模拟自动售货机业务一年的持续决策（净资产：5,478.16美元 vs. 竞争对手）。  
+   - 应用包括旅行规划、邮件整理和个性化学习/健身计划。  
+
+---
+
+**关键应用：**  
+1. **学习任何内容：**  
+   - 将长篇内容（书籍、讲座）转化为结构化学习材料并生成可视化（如动态RNA聚合酶模型）。  
+   - Google搜索的AI模式现使用Gemini 3提供沉浸式、互动式结果。  
+
+2. **构建任何内容：**  
+   - 支持游戏、3D艺术和网页UI的编码，**vibe编码**增强前端开发。  
+   - 与Cursor和Replit等平台集成，实现快速原型开发。  
+
+3. **规划任何内容：**  
+   - 自动化复杂工作流（如旅行行程、项目管理），并根据用户进度调整。  
+
+---
+
+**安全与责任：**  
+- Gemini 3经过**严格的安全评估**，包括抵御提示注入和网络滥用。  
+- Google与专家（如英国AISI、Apollo、Vaultis）合作，确保伦理使用并防止滥用。  
+
+---
+
+**发布计划：**  
+- **通用可用性：** Gemini 3 Pro对所有用户开放，AI Ultra订阅者可提前访问Deep Think模式。  
+- **开发者访问：** 通过Google AI Studio、Vertex AI和第三方平台开放。  
+- **企业应用：** Vertex AI和Gemini Enterprise支持商业应用。  
+
+---
+
+**结论：**  
+Gemini 3的发布标志着AI的一次变革性进展，其能力已影响每月超过**65亿用户**。Google强调在创新与安全之间取得平衡，将Gemini 3定位为AI生态系统的基石。该模型在搜索、开发和规划中的整合凸显了其重塑行业和日常生活的潜力。  
+
+**关键要点：**  
+- **Gemini 3**是AI领域的颠覆性产品，结合推理、编码和规划能力。  
+- **安全与伦理**被优先考虑，采用协作安全框架。  
+- **可访问性**覆盖消费者、开发者和企业，确保广泛采用。  
+
+此摘要概括了文章对Gemini 3技术进步、实际应用和AI领域战略意义的强调。
+
+#### Translation 
+
+**Summary of Google's Gemini 3 AI Model:**
+
+**Introduction:**  
+Google has launched **Gemini 3**, its latest AI model developed over two years by the DeepMind team. Positioned as the most advanced AI to date, Gemini 3 represents a milestone in AI innovation, with breakthroughs in reasoning, multimodal capabilities, and agent functions. It aims to revolutionize how users learn, build, and plan, integrating seamlessly into daily life and work.
+
+---
+
+**Core Features:**  
+1. **Enhanced Reasoning & Multimodal Capabilities:**  
+   - Gemini 3 excels in **complex reasoning** (e.g., scoring 41.0% in "Humanity’s Last Exam" without tools) and **multimodal integration**, handling text, video, and audio with a context window up to **1M tokens**.  
+   - **Deep Think mode** (a specialized version) further pushes boundaries, achieving 93.8% in GPQA Diamond and 45.1% in visual reasoning tasks.  
+
+2. **Advanced Coding & Development Tools:**  
+   - **Agent functions** enable end-to-end software development, including autonomous planning, coding, debugging, and execution verification.  
+   - New platforms like **Google Antigravity** and **Gemini CLI** allow developers to use Gemini 3 within familiar tools (e.g., GitHub, JetBrains), with AI acting as an active collaborator rather than a passive tool.  
+
+3. **Long-Term Planning & Task Management:**  
+   - Gemini 3 demonstrates **long-cycle task management** capabilities, e.g., managing a simulated vending machine business over a year with consistent decision-making (net worth: $5,478.16 vs. competitors).  
+   - Applications include travel planning, email organization, and personalized learning/fitness schedules.  
+
+---
+
+**Key Applications:**  
+1. **Learning Anything:**  
+   - Processes lengthy content (books, lectures) into structured learning materials and generates visualizations (e.g., dynamic RNA polymerase models).  
+   - Google Search’s AI mode now uses Gemini 3 for immersive, interactive results.  
+
+2. **Building Anything:**  
+   - Supports coding for games, 3D art, and web UIs, with **vibe coding** enhancing frontend development.  
+   - Integrates with platforms like Cursor and Replit, enabling rapid prototyping.  
+
+3. **Planning Anything:**  
+   - Automates complex workflows (e.g., travel itineraries, project management) and adapts to user progress.  
+
+---
+
+**Safety & Responsibility:**  
+- Gemini 3 undergoes **rigorous security assessments**, including resistance to prompt injection and network abuse.  
+- Google collaborates with experts (e.g., UK AISI, Apollo, Vaultis) to ensure ethical use and prevent misuse.  
+
+---
+
+**Release Plan:**  
+- **General Availability:** Gemini 3 Pro is available to all users, with AI Ultra subscribers gaining early access to Deep Think mode.  
+- **Developer Access:** Open via Google AI Studio, Vertex AI, and third-party platforms.  
+- **Enterprise Use:** Vertex AI and Gemini Enterprise support business applications.  
+
+---
+
+**Conclusion:**  
+Gemini 3’s release marks a transformative step in AI, with its capabilities already impacting over **6.5 billion users** monthly. Google emphasizes balancing innovation with safety, positioning Gemini 3 as a cornerstone of the AI ecosystem. The model’s integration into search, development, and planning underscores its potential to reshape industries and daily life.  
+
+**Key Takeaways:**  
+- **Gemini 3** is a game-changer in AI, combining reasoning, coding, and planning.  
+- **Safety and ethics** are prioritized, with collaborative security frameworks.  
+- **Accessibility** spans consumers, developers, and enterprises, ensuring broad adoption.  
+
+This summary captures the article’s emphasis on Gemini 3’s technical advancements, practical applications, and strategic significance in the AI landscape.
+
+#### Reference: 
+
+https://blog.google/products/gemini/gemini-3/
