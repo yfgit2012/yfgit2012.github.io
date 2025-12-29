@@ -1,4 +1,4 @@
-## 谢尔盖·布林斯坦福对话
+## Sergey Brin interview at Stanford
 
 **Article Summary (Chinese)**  
 At the centennial celebration of Stanford University's School of Engineering, Sergey Brin, co-founder of Google, made a rare public appearance, reflecting on Google's development history and candidly discussing the gains and losses in the AI era. He shared his early experiences at Stanford, including the "hacker spirit" of physically picking locks to access computer resources and the failed pizza ordering system project. Brin emphasized Google's long-term investment in AI (such as TPU chip development) and the importance of algorithm optimization, while also reflecting on Google's delayed commercialization of generative AI. He pointed out that AI's future requires breaking free from reliance on computational power, shifting toward algorithmic innovation, and encouraging students to focus on hard technology and fundamental principles rather than chasing short-term trends. Brin also mentioned that AI is becoming a new form of intelligence, potentially reshaping research methods in scientific fields, and called for maintaining curiosity about the essence of technology.
@@ -77,5 +77,6 @@ The article, through Brin's personal experiences and reflections, reveals the st
 文章通过布林的个人经历与反思，揭示了技术巨头在AI时代的战略选择与局限性。其核心观点在于：**长期主义与底层技术突破是创新的根基**，而非单纯依赖算力堆砌。同时，布林对AI未来的预测（如算法优化潜力、科学领域应用）为行业提供了新视角，而对学生的建议则强调了“深度思考”与“硬科技探索”的重要性，呼应了其早年“黑客精神”的本质。
 
 #### Reference: 
+
 
 https://www.youtube.com/watch?v=0nlNX94FcUE
