@@ -1,0 +1,79 @@
+## Llion Jones: AI direction
+
+### **摘要**  
+本文批评了当前**Transformer架构**在AI研究中的主导地位，指出其局限性并呼吁范式转变。文章强调，尽管Transformer推动了重大进展，但其“统计语言模型”本质导致了“锯齿状智能”——一种模型在复杂任务中表现优异但在简单、常识性任务中失败的模式。作者Llion Jones倡导受生物启发的架构，如**连续思维机器（CTM）**，该架构模拟了人脑的动态、适应性过程。文章还呼吁改革学术评价体系和资源分配，以促进未被探索领域的创新。
+
+---
+
+### **关键点**  
+1. **Transformer的局限性**  
+   - **锯齿状智能**：模型在复杂任务（如法律考试）中表现良好，但在基础算术或常识任务（如混淆“日出东方”）中失败。  
+   - **统计建模**：Transformer依赖统计模式而非真正的理解，导致在新场景中输出脆弱。  
+   - **过度泛化**：其“一刀切”设计缺乏对需要结构化知识或逻辑任务的专业化支持。
+
+2. **CTM（连续思维机器）**  
+   - **动态架构**：与Transformer不同，CTM通过**神经动态**和**内部思维维度**模拟大脑般的动态处理过程。  
+   - **三步流程**：  
+     1. 将输入转换为神经动态表示。  
+     2. 通过动态耦合演化神经动态。  
+     3. 根据演化后的状态生成输出。  
+   - **优势**：自然整合不确定性建模和自适应计算，无需外部模块。
+
+3. **行业改革呼吁**  
+   - **学术评价**：批评对短期性能和论文数量的过度关注，呼吁支持长期、探索性研究。  
+   - **资源分配**：倡导资助冷门、高风险领域（如生物启发模型），而非集中资源扩大Transformer。  
+   - **平衡方法**：鼓励同时优化现有架构并探索新范式。
+
+---
+
+### **分析**  
+文章突出了AI研究中的关键矛盾：**创新与实用性的平衡**。尽管Transformer推动了行业应用，但其局限性可能阻碍向**通用人工智能（AGI）**的进步。CTM模型代表了一种大胆的突破，但其成功取决于克服计算复杂性和生物合理性等挑战。
+
+**关键启示**：  
+- **范式转变**：历史表明，突破往往来自“冷门”研究领域，而非渐进改进。  
+- **伦理与实践风险**：过度依赖扩展可能延迟根本性架构创新，导致伦理问题（如偏见模型、透明度不足）。  
+- **协作改革**：文章建议需要**政府资助**、**学术自由**和**跨学科合作**，以平衡探索与应用。
+
+**结论**：本文是对AI社区的警示，呼吁从“扩展”转向“理解”智能的核心原理。尽管Transformer仍有价值，但其主导地位必须被挑战，以避免重蹈过去范式的覆辙（如RNN）。AI的未来取决于拥抱多样化研究方法，并培养重视**深度基础创新**而非短期收益的文化。
+
+#### Translation 
+
+### **Summary**  
+The article critiques the current dominance of the **Transformer architecture** in AI research, highlighting its limitations and the need for a paradigm shift. It emphasizes that while Transformers have enabled significant progress, their "statistical language model" nature leads to **"sawtooth intelligence"**—a pattern where models excel in complex tasks but fail in simple,常识-based ones. The author, Llion Jones, advocates for **bio-inspired architectures** like the **Continuous Thought Machine (CTM)**, which mimics the dynamic, adaptive processes of the human brain. The article also calls for reforms in academic evaluation systems and resource allocation to foster innovation in underexplored areas.
+
+---
+
+### **Key Points**  
+1. **Transformer Limitations**  
+   - **Sawtooth Intelligence**: Models perform well in complex tasks (e.g., legal exams) but fail in basic arithmetic or常识 (e.g., confusing "sunrise from the east").  
+   - **Statistical Modeling**: Transformers rely on statistical patterns rather than true understanding, leading to brittle outputs in novel scenarios.  
+   - **Overgeneralization**: The "one-size-fits-all" design lacks specialization for tasks requiring structured knowledge or logic.  
+
+2. **CTM (Continuous Thought Machine)**  
+   - **Dynamic Architecture**: Unlike Transformers, CTM simulates brain-like dynamic processing through **neural dynamics** and **internal thought dimensions**.  
+   - **Three-Step Process**:  
+     1. Convert input to neural dynamic representations.  
+     2. Evolve neural dynamics through dynamic coupling.  
+     3. Generate outputs based on evolved states.  
+   - **Advantages**: Naturally integrates uncertainty modeling and adaptive computation without external modules.  
+
+3. **Call for Industry Reform**  
+   - **Academic Evaluation**: Criticizes the focus on short-term performance and paper quantity, urging support for long-term, exploratory research.  
+   - **Resource Allocation**: Advocates for funding cold, high-risk research areas (e.g., bio-inspired models) instead of concentrating resources on scaling Transformers.  
+   - **Balanced Approach**: Encourages parallel efforts to optimize existing architectures while exploring new paradigms.  
+
+---
+
+### **Analysis**  
+The article underscores a critical tension in AI research: **innovation vs. practicality**. While Transformers have driven industry adoption, their limitations risk stagnating progress toward **general artificial intelligence (AGI)**. The CTM model represents a bold departure, but its success depends on overcoming challenges like computational complexity and biological plausibility.  
+
+**Key Implications**:  
+- **Paradigm Shifts**: History shows that breakthroughs often emerge from "cold" research areas, not incremental improvements.  
+- **Ethical and Practical Risks**: Over-reliance on scaling may delay fundamental architectural innovations, risking ethical issues (e.g., biased models, lack of transparency).  
+- **Collaborative Reforms**: The article suggests a need for **government funding**, **academic freedom**, and **cross-disciplinary collaboration** to balance exploration and application.  
+
+**Conclusion**: The article serves as a wake-up call to the AI community, urging a shift from "scaling" to "understanding" the core principles of intelligence. While Transformers remain valuable, their dominance must be challenged to avoid repeating the pitfalls of past paradigms (e.g., RNNs). The future of AI hinges on embracing diversity in research approaches and fostering a culture that values **deep, foundational innovation** over short-term gains.
+
+#### Reference: 
+
+https://www.youtube.com/watch?v=gWR9Axj5fF4
